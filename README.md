@@ -11,3 +11,5 @@ Software
 Hardware
 - PC or Mac
 
+## Load the code to compiler 
+- load the *,cpp file
